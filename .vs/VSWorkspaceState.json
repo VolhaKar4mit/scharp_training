@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\addressbook-web-tests",
+    "\\csharptraining",
+    "\\csharptraining\\csharptraining"
   ],
-  "SelectedNode": "\\D:\\C# training\\scharp_training",
   "PreviewInSolutionExplorer": false
 }

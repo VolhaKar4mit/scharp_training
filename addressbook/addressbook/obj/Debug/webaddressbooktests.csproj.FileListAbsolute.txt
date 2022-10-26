@@ -1,0 +1,5 @@
+D:\C# training\scharp_training\addressbook\addressbook\obj\Debug\webaddressbooktests.csproj.AssemblyReference.cache
+D:\C# training\scharp_training\addressbook\addressbook\obj\Debug\webaddressbooktests.csproj.SuggestedBindingRedirects.cache
+D:\C# training\scharp_training\addressbook\addressbook\obj\Debug\webaddressbooktests.csproj.CoreCompileInputs.cache
+D:\C# training\scharp_training\addressbook\addressbook\obj\Debug\addressbook.dll
+D:\C# training\scharp_training\addressbook\addressbook\obj\Debug\addressbook.pdb

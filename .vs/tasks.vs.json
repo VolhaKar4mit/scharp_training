@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "задача-UnitTest 2",
+      "appliesTo": "addressbook-web-tests/UnitTest 2.cs",
+      "type": "launch"
+    }
+  ]
+}
