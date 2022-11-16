@@ -12,7 +12,7 @@ using OpenQA.Selenium.Support.UI;
 namespace WebAddressbookTests
 {
     [TestFixture]
-    public class ContactCreationTestTask4
+    public class Task4_ContactCreationTest
     {
         private IWebDriver driver;
         public StringBuilder verificationErrors;
@@ -45,7 +45,7 @@ namespace WebAddressbookTests
             OpenHomePage();
             Login(new AccountData("admin", "secret"));
             AddNewContact();
-            ContactData contacts = new ContactData("marta", "johnson", "Los Langeles, Californis", "martaj@gmail.com");
+            ContactData contacts = new ContactData("marta", "johnson", "Los Angeles, California", "martaj@gmail.com");
             //contacts.MiddleName = "";
             //contacts.NickName = "";
             //contacts.Title = "";

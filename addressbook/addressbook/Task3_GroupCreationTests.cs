@@ -11,7 +11,7 @@ using OpenQA.Selenium.Support.UI;
 namespace WebAddressbookTests
 {
     [TestFixture]
-    public class GroupCreationTestsTask3
+    public class Task3_GroupCreationTests
     {
         private IWebDriver driver;
         public StringBuilder verificationErrors;
